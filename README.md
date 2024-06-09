@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi, I'm Roshan Bist 👋
+
+I'm a dedicated and aspiring full-stack developer based in Tampere, Finland. I recently earned my Master’s Degree in Computing Science with a specialization in Software, Web, and Cloud from Tampere University. My passion lies in creating responsive websites and continually learning new technologies to enhance my skill set. In addition to coding, I have a keen interest in photography. Capturing moments through my lens allows me to explore my creativity from a different perspective.
 
 <!--
 **roshanbist/roshanbist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
