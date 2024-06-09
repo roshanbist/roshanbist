@@ -25,7 +25,8 @@ Currently engaged in a full-time training program aimed at enhancing full-stack 
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshanbist&theme=vue-dark&show_icons=true&locale=en" alt="roshanbist" /></p>
 
-Welcome to my github profile! 
+Welcome to my github profile! Lets get connected.
+
 ![](https://komarev.com/ghpvc/?username=roshanbist&theme=vue-dark)
 
 
