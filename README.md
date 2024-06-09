@@ -5,7 +5,17 @@ I'm a dedicated and aspiring full-stack developer based in Tampere, Finland. I r
 ![<roshanbist>'s Stats](https://github-readme-stats.vercel.app/api?username=roshanbist&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🔧 Technology Stack
-- Frontend: [![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,typescript,react,redux,tailwind,materialui)](https://skillicons.dev)
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,typescript,react,redux,tailwind,materialui)](https://skillicons.dev)
+
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,java)](https://skillicons.dev)
+
+### Database
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
+
+### Additional
+[![My Skills](https://skillicons.dev/icons?i=git,jest,docker,figma,photoshop,postman)](https://skillicons.dev)
 <!--
 **roshanbist/roshanbist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
