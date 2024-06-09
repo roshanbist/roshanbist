@@ -14,7 +14,7 @@ Currently engaged in a full-time training program aimed at enhancing full-stack 
 - Backend: Node.js | Express | Mongo DB | PostgreSQL | Java
 - DevOps and Cloud Services (Basic AWS)
 
-### Research Assistnat | Tampere University
+### Research Assistant | Tampere University
 *July 2022 - Dec 2023*
 - Designed the UI of the Resource Catalogue Platform (RCP) with Figma, ensuring a user-friendly and visually appealing interface
 - Developed a web application (RCP), allowing authenticated users to view, upload, update, and delete their document resource descriptions, and submit them for review by resource managers using React, Redux toolkit, SASS and various other technologies.
@@ -23,6 +23,9 @@ Currently engaged in a full-time training program aimed at enhancing full-stack 
 - Email: roshan.bist03@gmail.com
 - Linkedin: [Roshan Bist](https://www.linkedin.com/in/roshanbist89/)
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshanbist&theme=vue-dark&show_icons=true&locale=en&layout=compact" alt="roshanbist" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshanbist&theme=vue-dark&show_icons=true&locale=en" alt="roshanbist" /></p>
 
-![<roshanbist>'s Stats](https://github-readme-stats.vercel.app/api?username=roshanbist&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+Welcome to my github profile! 
+![](https://komarev.com/ghpvc/?username=roshanbist&theme=vue-dark)
+
+
