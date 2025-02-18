@@ -8,8 +8,8 @@ I'm a dedicated and aspiring full-stack developer based in Tampere, Finland. I h
 ## Experience
 
 ### Integrify | FullStack Developer
-*Jan. 2024 - Present*
-Currently engaged in a full-time training program aimed at enhancing full-stack development skills across various technologies:
+*Jan. 2024 - Jun 2024*
+Completed an intensive full-time training program focused on enhancing full-stack development skills across diverse technologies:
 - Frontend: HTML| CSS | SASS | JavaScript | Typescript | React | Redux
 - Backend: Node.js | Express | Mongo DB | PostgreSQL | Java
 - DevOps and Cloud Services (Basic AWS)
