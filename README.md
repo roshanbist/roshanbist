@@ -1,6 +1,6 @@
 # Hi, I'm Roshan Bist 👋
 
-I'm a dedicated and aspiring full-stack developer based in Tampere, Finland. I hold a Master’s Degree in Computing Science with a specialization in Software, Web, and Cloud from Tampere University. My passion lies in building responsive web applications and continuously learning new technologies to expand my skill set. Beyond coding, I have a keen interest in photography, which allows me to explore creativity from a different perspective.
+I'm a dedicated and aspiring software developer based in Tampere, Finland. I hold a Master’s Degree in Computing Science with a specialization in Software, Web, and Cloud from Tampere University. My passion lies in building responsive web applications and continuously learning new technologies to expand my skill set. Beyond coding, I have a keen interest in photography, which allows me to explore creativity from a different perspective.
 
 ## 🔧 Technology Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,typescript,react,redux,tailwind,materialui,nodejs,expressjs,python,mongodb,postgres,git,jest,docker,figma,photoshop,postman)](https://skillicons.dev)
