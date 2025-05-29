@@ -15,17 +15,26 @@ If you're building something meaningful and looking for a developer who blends f
 
 ## Experience
 
-### Integrify | FullStack Developer
-*Jan. 2024 - Jun 2024*
-Completed an intensive full-time training program focused on enhancing full-stack development skills across diverse technologies:
-- Frontend: HTML| CSS | SASS | JavaScript | Typescript | React | Redux
-- Backend: Node.js | Express | Mongo DB | PostgreSQL | Java
-- DevOps and Cloud Services (Basic AWS)
+### FullStack Developer | Integrify
+*Jan. 2024 - June 2024*
+- Developed a scalable e-commerce web app using React, TypeScript, Tailwind CSS, and enhanced state management with Redux Toolkit, improving performance and maintainability.
+- Built backend services with Express.js and MongoDB, implementing authentication and data management.
+- Integrated Docker and CI/CD pipelines to automate deployments and improve efficiency.
+- Implemented comprehensive unit testing with Jest ensuring high quality and maintainable code.
 
-### Research Assistant | Tampere University
+### Frontend Developer | Tampere University
 *July 2022 - Dec 2023*
-- Designed the UI of the Resource Catalogue Platform (RCP) with Figma, ensuring a user-friendly and visually appealing interface
-- Developed a web application (RCP), allowing authenticated users to view, upload, update, and delete their document resource descriptions, and submit them for review by resource managers using React, Redux toolkit, SASS and various other technologies.
+- Developed a scalable, responsive role-based web app with React, Redux Toolkit, React Table, and SCSS.
+- Built a reusable component library and ensured cross-browser compatibility for consistent UI across devices.
+- Boosted performance with code splitting and lazy loading, and improved accessibility by following WCAG guidelines.
+- Conducted usability testing to refine the user experience and enhance overall satisfaction by 25%.
+
+### Frontend Developer | Rapid Web Solutions
+*Jan 2015 - July 2021*
+- Delivered 20+ frontend projects with consistent quality assurance practices, ensuring pixel-perfect, accessible designs.
+- Collaborated with cross-functional teams in fast-paced environments to deliver bug-free web applications for diverse clients
+- Applied systematic testing approaches for cross-browser compatibility and accessibility using WCAG guidelines and ARIA attributes.
+- Provided technical support and troubleshooting for client applications, developing strong problem-solving and communication skills.
 
 ## 📫 Contact Information
 - Email: roshan.bist03@gmail.com
