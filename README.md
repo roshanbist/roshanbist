@@ -8,7 +8,8 @@ I’m a software developer with experience in building high-performance web appl
 
 Outside of coding, I explore visual storytelling through photography, one frame at a time 📷
 
-If you're building something meaningful and looking for a developer who blends frontend skills with full-stack experience, let’s connect 🤝
+If you're building something meaningful and looking for a developer who blends frontend skills with full-stack experience, 
+LET'S CONNECT 🤝
 
 ## 🔧 Technology Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,typescript,react,redux,tailwind,materialui,nodejs,expressjs,python,mongodb,postgres,git,jest,docker,figma,photoshop,postman)](https://skillicons.dev)
