@@ -1,6 +1,14 @@
 # Hi, I'm Roshan Bist 👋
 
-I'm a dedicated and aspiring software developer based in Tampere, Finland. I hold a Master’s Degree in Computing Science with a specialization in Software, Web, and Cloud from Tampere University. My passion lies in building responsive web applications and continuously learning new technologies to expand my skill set. Beyond coding, I have a keen interest in photography, which allows me to explore creativity from a different perspective.
+I’m a software developer with experience in building high-performance web applications using React, TypeScript, Node.js, and Express. I enjoy creating pixel-perfect, responsive interfaces and building scalable backend systems that work smoothly together.
+
+🚀 I’ve developed production-grade applications using MongoDB, Docker, and CI/CD during my time at Integrify Academy. I also hold an MSc in Computing Sciences from Tampere University. My journey from Nepal to Finland has been all about creating interactive, user-focused solutions that work across all devices.
+
+🛠 I’ve worked in agile, cross-functional teams and value collaboration, iteration, and user-centered development. I enjoy solving problems across the stack and take pride in writing clean, accessible, and maintainable code.
+
+Outside of coding, I explore visual storytelling through photography, one frame at a time 📷
+
+If you're building something meaningful and looking for a developer who blends frontend skills with full-stack experience, let’s connect 🤝
 
 ## 🔧 Technology Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,typescript,react,redux,tailwind,materialui,nodejs,expressjs,python,mongodb,postgres,git,jest,docker,figma,photoshop,postman)](https://skillicons.dev)
